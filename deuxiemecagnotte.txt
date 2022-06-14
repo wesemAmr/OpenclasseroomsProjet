@@ -1,0 +1,6 @@
+la c le deuxième txt qu'on as écrit après le : git add 
+on l'a fais pour savoir si il vaut mieux modifier le programme après le git add ou avant 
+
+ducoup quand on a fais après le git add sa as pas ris les modif 
+on as donc fais un deuxime git add sans faire le commit et le push 
+et le je fais un 3eme git add juste après avoir modif ce txt puis je vais fr le commit et le push 
